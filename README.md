@@ -9,12 +9,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45">
 
-Everything I would have written here would have been cliche, so:
 
 - ❤️ I love building projects using JS
 - 🤔 My Social life is non-existent
-- 🤝 Just another Dev who can reverse a Binary am I right?
-- Hit me up with cool projects (Please do...the fate of the world depends on it)
 
 
 **Languages and Tools:**  
