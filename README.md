@@ -11,7 +11,6 @@
 
 
 - ❤️ I love building projects using JS
-- 🤔 My Social life is non-existent
 
 
 **Languages and Tools:**  
